@@ -14,7 +14,7 @@ Hi, I'm a Brazilian IT university student passionate about software development.
     alt = "GitHub Stats"
     height = "210"
     style = "padding-right: 1px;"
-    src = "https://github-readme-stats.vercel.app/api?username=VictorAugustoAI&show_icons=true&theme=transparent&include_all_commits=true"
+    src = "https://github-readme-stats.vercel.app/api?username=VictorAugustoAI&show_icons=true&theme=transparent"
 /> 
 
 <img align = "right"
