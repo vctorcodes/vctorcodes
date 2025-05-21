@@ -14,13 +14,13 @@ Hi, I'm a Brazilian IT university student passionate about software development.
     alt = "GitHub Stats"
     height = "210"
     style = "padding-right: 1px;"
-    src = "https://github-readme-stats.vercel.app/api?username=VictorAugustoAI&show_icons=true&theme=transparent"
+    src = "https://github-readme-stats.vercel.app/api?username=vctorcodes&show_icons=true&theme=transparent"
 /> 
 
 <img align = "right"
      alt = "Github Stats"
     height = "210"
     style = "padding-right: 1px" 
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAugustoAI&theme=transparent"/>
+    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vctorcodes&theme=transparent"/>
 </p>
 
