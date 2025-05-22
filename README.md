@@ -3,7 +3,7 @@
 **`System Develoment Student`**
 <p>
     <div>
-This is my personal GitHub profile for my university and open-source projects!
+<samp> This is my personal GitHub profile for my university and open-source projects! </samp>
 Hi, I'm a Brazilian IT university student passionate about software development. I specialize in building projects from the ground up, covering everything from planning and design to implementing efficient solutions for any problems through programming.
     </div>
 </p>
